@@ -1,0 +1,16 @@
+
+
+.box {
+  width: 50%;
+  height: 80%;
+  box-sizing: content-box;
+  margin-left: 25%;
+  margin-top: 4%;
+  border: 1px solid tan;
+  transition: 0.3s;
+  box-sizing: border-box;
+  padding:5% 10%;
+  background-color:tan;
+
+}
+
